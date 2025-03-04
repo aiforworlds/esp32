@@ -1,1 +1,1 @@
-这个是一个esp32项目路径
+espressif idf
